@@ -1,2 +1,3 @@
 # .github
-General Information (readme)
+
+A collection of Embedded Rust Projects using a MicroBit controller
